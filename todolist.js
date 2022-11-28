@@ -1,7 +1,6 @@
 //requires
 const prompt = require("prompt-sync")()
 const fs = require('fs');
-const { finished } = require("stream");
 
 //variables
 let consoleColorCodes = {
