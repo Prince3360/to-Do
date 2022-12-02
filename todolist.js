@@ -194,4 +194,6 @@ function main(){
     }
 }
 
+//Starting the commands
+console.clear()
 main()
